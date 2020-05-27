@@ -1,0 +1,30 @@
+#profile{
+    width: 20%;
+    border-radius: 50%;
+}
+#back{
+    background-image: url('../../assets/b3.jpg');
+    background-repeat: no-repeat;
+    background-position:center;
+    height: 625px;
+    width: 100%;
+    text-align: center;
+
+}
+div{
+    padding-bottom: 10px;
+}
+#image-info{
+   padding-top:12%;
+   color: white;
+}
+.findme{
+    color:white;
+    font-size: 22px;
+}
+#services{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
